@@ -14,6 +14,7 @@
 		284B58CB27176FA300444823 /* ColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 284B58C927176FA300444823 /* ColeccionDeJuegos.xcdatamodeld */; };
 		284B58CD27176FA400444823 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 284B58CC27176FA400444823 /* Assets.xcassets */; };
 		284B58D027176FA400444823 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 284B58CE27176FA400444823 /* LaunchScreen.storyboard */; };
+		284B58D8271778C400444823 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 284B58D7271778C400444823 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		284B58CC27176FA400444823 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		284B58CF27176FA400444823 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		284B58D127176FA400444823 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		284B58D7271778C400444823 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				284B58C227176FA300444823 /* SceneDelegate.swift */,
 				284B58C427176FA300444823 /* ViewController.swift */,
 				284B58C627176FA300444823 /* Main.storyboard */,
+				284B58D7271778C400444823 /* JuegosViewController.swift */,
 				284B58CC27176FA400444823 /* Assets.xcassets */,
 				284B58CE27176FA400444823 /* LaunchScreen.storyboard */,
 				284B58D127176FA400444823 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				284B58D8271778C400444823 /* JuegosViewController.swift in Sources */,
 				284B58C527176FA300444823 /* ViewController.swift in Sources */,
 				284B58C127176FA300444823 /* AppDelegate.swift in Sources */,
 				284B58C327176FA300444823 /* SceneDelegate.swift in Sources */,
